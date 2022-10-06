@@ -1,0 +1,1 @@
+alert("please donate to people!");
